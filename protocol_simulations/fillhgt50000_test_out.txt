@@ -1,0 +1,739 @@
+Picking up tip well A2 in "9"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"
+Transferring 200 from well B2 in "6" to well B1 in "6"
+	Aspirating 200.0 uL from well B2 in "6" at 1 speed
+	Dispensing 200.0 uL into well B1 in "6"

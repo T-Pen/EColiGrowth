@@ -1,0 +1,90 @@
+Picking up tip well A1 in "9"
+Aspirating 50.0 uL from well A1 in "6" at 1 speed
+Dispensing 50.0 uL into well A1 in "3"
+Aspirating 50.0 uL from well A1 in "6" at 1 speed
+Dispensing 50.0 uL into well B1 in "3"
+Aspirating 50.0 uL from well A1 in "6" at 1 speed
+Dispensing 50.0 uL into well C1 in "3"
+Aspirating 50.0 uL from well A1 in "6" at 1 speed
+Dispensing 50.0 uL into well D1 in "3"
+Aspirating 50.0 uL from well A1 in "6" at 1 speed
+Dispensing 50.0 uL into well E1 in "3"
+Aspirating 50.0 uL from well A1 in "6" at 1 speed
+Dispensing 50.0 uL into well F1 in "3"
+Aspirating 50.0 uL from well A1 in "6" at 1 speed
+Dispensing 50.0 uL into well G1 in "3"
+Aspirating 50.0 uL from well A1 in "6" at 1 speed
+Dispensing 50.0 uL into well H1 in "3"
+Dropping tip well A1 in "12"
+Picking up tip well B1 in "9"
+Aspirating 50.0 uL from well A1 in "6" at 1 speed
+Dispensing 50.0 uL into well A2 in "3"
+Aspirating 50.0 uL from well A1 in "6" at 1 speed
+Dispensing 50.0 uL into well B2 in "3"
+Aspirating 50.0 uL from well A1 in "6" at 1 speed
+Dispensing 50.0 uL into well C2 in "3"
+Aspirating 50.0 uL from well A1 in "6" at 1 speed
+Dispensing 50.0 uL into well D2 in "3"
+Aspirating 50.0 uL from well A1 in "6" at 1 speed
+Dispensing 50.0 uL into well E2 in "3"
+Aspirating 50.0 uL from well A1 in "6" at 1 speed
+Dispensing 50.0 uL into well F2 in "3"
+Aspirating 50.0 uL from well A1 in "6" at 1 speed
+Dispensing 50.0 uL into well G2 in "3"
+Aspirating 50.0 uL from well A1 in "6" at 1 speed
+Dispensing 50.0 uL into well H2 in "3"
+Dropping tip well A1 in "12"
+Picking up tip well C1 in "9"
+Aspirating 0.0 uL from well A1 in "6" at 1 speed
+Dispensing 0 uL into well A3 in "3"
+Aspirating 14.285714285714285 uL from well A1 in "6" at 1 speed
+Dispensing 14.285714285714285 uL into well B3 in "3"
+Aspirating 28.57142857142857 uL from well A1 in "6" at 1 speed
+Dispensing 28.57142857142857 uL into well C3 in "3"
+Aspirating 42.857142857142854 uL from well A1 in "6" at 1 speed
+Dispensing 42.857142857142854 uL into well D3 in "3"
+Aspirating 57.14285714285714 uL from well A1 in "6" at 1 speed
+Dispensing 57.14285714285714 uL into well E3 in "3"
+Aspirating 71.42857142857143 uL from well A1 in "6" at 1 speed
+Dispensing 71.42857142857143 uL into well F3 in "3"
+Aspirating 85.71428571428571 uL from well A1 in "6" at 1 speed
+Dispensing 85.71428571428571 uL into well G3 in "3"
+Aspirating 100.0 uL from well A1 in "6" at 1 speed
+Dispensing 100.0 uL into well H3 in "3"
+Dropping tip well A1 in "12"
+Picking up tip well D1 in "9"
+Aspirating 0.0 uL from well A1 in "6" at 1 speed
+Dispensing 0 uL into well A4 in "3"
+Aspirating 14.285714285714285 uL from well A1 in "6" at 1 speed
+Dispensing 14.285714285714285 uL into well B4 in "3"
+Aspirating 28.57142857142857 uL from well A1 in "6" at 1 speed
+Dispensing 28.57142857142857 uL into well C4 in "3"
+Aspirating 42.857142857142854 uL from well A1 in "6" at 1 speed
+Dispensing 42.857142857142854 uL into well D4 in "3"
+Aspirating 57.14285714285714 uL from well A1 in "6" at 1 speed
+Dispensing 57.14285714285714 uL into well E4 in "3"
+Aspirating 71.42857142857143 uL from well A1 in "6" at 1 speed
+Dispensing 71.42857142857143 uL into well F4 in "3"
+Aspirating 85.71428571428571 uL from well A1 in "6" at 1 speed
+Dispensing 85.71428571428571 uL into well G4 in "3"
+Aspirating 100.0 uL from well A1 in "6" at 1 speed
+Dispensing 100.0 uL into well H4 in "3"
+Dropping tip well A1 in "12"
+Picking up tip well E1 in "9"
+Aspirating 0.0 uL from well A1 in "6" at 1 speed
+Dispensing 0 uL into well A5 in "3"
+Aspirating 14.285714285714285 uL from well A1 in "6" at 1 speed
+Dispensing 14.285714285714285 uL into well B5 in "3"
+Aspirating 28.57142857142857 uL from well A1 in "6" at 1 speed
+Dispensing 28.57142857142857 uL into well C5 in "3"
+Aspirating 42.857142857142854 uL from well A1 in "6" at 1 speed
+Dispensing 42.857142857142854 uL into well D5 in "3"
+Aspirating 57.14285714285714 uL from well A1 in "6" at 1 speed
+Dispensing 57.14285714285714 uL into well E5 in "3"
+Aspirating 71.42857142857143 uL from well A1 in "6" at 1 speed
+Dispensing 71.42857142857143 uL into well F5 in "3"
+Aspirating 85.71428571428571 uL from well A1 in "6" at 1 speed
+Dispensing 85.71428571428571 uL into well G5 in "3"
+Aspirating 100.0 uL from well A1 in "6" at 1 speed
+Dispensing 100.0 uL into well H5 in "3"
+Dropping tip well A1 in "12"

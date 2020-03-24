@@ -1,0 +1,314 @@
+\documentclass[12p, a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{gensymb}
+\usepackage{svg}
+\graphicspath{ {graphs/} }
+
+\title{Summary BioLector 1.0}
+\author{Tobias Pfennig}
+\date{\today}
+
+
+\begin{document}
+\maketitle
+
+A summary of the attempt to measure, describe and model the growth of \textit{E. coli} in glucose or acetate limited liquid culture.
+
+\textit{E. coli} strain DH5alphaZ1 was grown in M9 minimal medium with addition of 0.4\% glucose. For the experiment, a BioLector 48-well plate was filled with each three, seven-step gradients of glucose or acetate ranging between 0 and 133 C-mmol/l. The wells were than inoculated with cells to an OD of 0.1 and monitored. During monitoring, the plate was shaken at 900 rpm with free gas exchange and kept at 37 \degree C and 80\% humidity.
+
+\section*{Glucose}
+
+In the scatter measurements for the glucose samples (see fig. \ref{fig:glc_scatterRaw}) three phases of growth can be approximated. These are best visible for higher glucose concentrations, but are already partially visible at 44 C-mmol/l.
+
+Thereby the scatter first shows a strong exponential phase, which reaches a peak value and then drops by about 20\% in the span of 30 min. Cells from all concentrations seem to share this initial phase with a very similar growth rate and only differ in the time at which they experience the drop in scatter. The higher the glucose concentration for the samples, the later they reach the drop-point (see Peak1 in fig. \ref{fig:glc_scatterPeaksPos}) and thus the higher is their peak scatter-value.
+
+Following to the drop is a second growth phase, which has a largely reduced growth rate (see fig. \ref{fig:glc_growthratesScatter}). It again shows a peak with following drop in scatter (ca. -10\% in 30 min.), however the time it takes to reach this second peak after the first one is negatively correlated with the glucose concentration. This behaviour leads towards all samples reaching the second peak after about 10 h (see Peak2 and $\Delta$Peak2 in fig. \ref{fig:glc_scatterPeaksPos}).
+
+After the second drop, the scatter remains stably at the after-drop value in a stationary phase.
+\bigskip
+
+These three phases, separated by the two peaks, can also be observed in most of the other BioLector measurements:
+\begin{itemize}
+    \item In riboflavin, the phases differ in the fluorescence's growth rate in the same way, however they are not delimited by peaks but seamlessly pass into each other. The changes in growth rate fall into the time ranges, in which the scatter-drops are observed (see figs. \ref{fig:glc_ribofRaw} \& \ref{fig:glc_growthratesRibof}).
+    
+    \item The pH drops strongly during the first phase. For the second growth phase, samples with low glucose concentrations show a slight but continuous decrease in pH, that is continued in the stationary phase. High glucose concentrations however lead to a slight increase in pH during the second growth phase before turning to the decrease in the stationary phase. (see fig. \ref{fig:glc_pHRaw}). Interestingly, the samples without added glucose still show a decrease in pH. Their final measurements are even comparable to those of samples with the next higher glucose concentration. It should also be noted, that M9 medium contains a phosphate buffer, which may reduce the effects of the growing cultures on the pH.
+    
+    \item $\textrm{O}_2$ usage is visible during both growth phases. Also, during all phases, the biomass-normalized $\textrm{O}_2$ change rate is mostly stable. The first phases' change rate is about three to four times larger, than the second phases', while in the stationary phase a slight, non-zero $\textrm{O}_2$ usage can be measured (see figs. \ref{fig:glc_O2Raw} \& \ref{fig:glc_O2Rate}). During the scatter-drop phases, the $\textrm{O}_2$ usage rate also drops strongly.
+    
+    \item The NADH measurement gain was not adapted and few information can be gathered due to the low signal:noise ratio.
+\end{itemize}
+
+\subsection*{First analysis}
+The two growth phases are believed to be caused by sequential glucose metabolism (also "acetate-switch"): First glycolysis is initiated while high glucose concentrations repress full TCA cycle expression. This leads to a fermentation-like excretion of partially oxidized metabolites, being mostly acetate (possibly also ethanol or lactate). ATP and NADH generated through glycolysis drive this first growth phase. In the second phase the excreted acetate is consumed through the TCA cycle, generating ATP and NADPH for further growth. 
+\bigskip
+
+Some thoughts and interesting observations:
+\begin{itemize}
+    \item Although scatter is supposed to represent the cells biomass, the appearance of the drop-phases points towards a flawed relation between both, as a loss of biomass, especially in a short time frame, is very unlikely.
+    \item Riboflavin and scatter have a qualitatively similar behavior, such that riboflavin may qualify as an alternative biomass measurement.
+    \item Since the scatter-growthrates stay more or less constant during the phases, a sudden change in cell structure preceding the peaks is unlikely.
+    \item During both glycolysis and TCA cycle, $\textrm{CO}_2$ is released, which appears as carbonic acid in the liquid medium, therefore acidifying the sample. However, only during the first growth phase a drop in pH is measured, eventhough the TCA cycle is able to release double the amount of carbon as $\textrm{CO}_2$. Therefore, the second phase likely metabolizes the previously excreted, acidic metabolite and "exchanges" it against carbonic acid, keeping the pH at a relatively stable level. This may therefore be an indication for the acetate switch.
+    \item The calculated $\textrm{O}_2$ usage rate for the first phase is larger than that for the second, although the TCA cycle produces a lot more redox equivalents to be oxidized, than glycolysis. Since for most of the used concentrations the first phase takes longer than the second, this is likely not (solely) caused by the glycolytic flux being higher. (Theory: Most of the acetate may already be metabolized during the first growth phase, such that only a part is available for the second one. With a large amount of cells present, this may lower the metabolic flux and therefore the $\textrm{O}_2$ consumption. This would mean, that the acetate switch is a continuous process rather than a real serialization.)
+    \item Since the scatter-drops are reflected in all measured variables and are accompanied by a drop in $\textrm{O}_2$ usage, they likely represent a large-scale process, which temporarily reduces growth strongly and effects scattering behaviour on a cellular level. This may be a restructuring of cellular components, e.g. energy storing compounds such as glycogen or the overall cell shape.
+    \item Even at glucose concentrations, where no second scatter peak is visible, a change in $\textrm{O}_2$ consumption is measurable at a time point, where a scatter peak would be expected.
+\end{itemize}
+
+Followingly, one goal was to see, if scatter or riboflavin may be used to estimate the samples biomass. According to Sergej Britners work, a cultures scatter during the stationary phase correlates well with the dry weight and may be converted using
+\[c_{biomass} [mg/ml] = scatter [AU] \cdot 0.603\]
+The resulting concentration can be converted to C-molarity using $m_{carbon} [mg] = m_{biomass} [mg] \cdot 0.474$ and $M_{carbon} = 12 [g/mol]$:
+\begin{equation}
+    c_{carbon} = scatter [AU] \cdot \frac{0.603 [mg/(ml AU)] \cdot 0.474 [mg/mg]}{12 [g/mol]}
+    \label{eqn:CMolFromScat}
+\end{equation}
+Using a linear model on riboflavin vs. scatter in the stationary phase (slope: 0.957 in primary, 1.303 in the biomass determination) this relation can be translated to
+\begin{equation}
+    c_{carbon} = \frac{riboflavin [AU]}{slope} \cdot \frac{0.603 [mg/(ml AU)] \cdot 0.474 [mg/mg]}{12 [g/mol]}
+    \label{eqn:CMolFromRibof}
+\end{equation}
+
+Afterwards, a time series of samples with the highest glucose concentration was used to measure dry mass. The resulting mass was compared to the expected mass from scatter and riboflavin (see fig. \ref{fig:glcBM_biomassCompares}).
+Scatter measurements seem to describe the first growth phase reasonably well. However they diverge from the measurements as soon as the scatter-drop is reached, as the dry mass does not show a reduction after this point, but rather a monotonous increase. On the other hand, the biomass expected through riboflavin lies far below the one determined through biomass. However, this is mainly due to the fact, that the stationary phases of scatter and riboflavin were used to calibrate riboflavin $\rightarrow$ biomass conversion, where the scatter stationary phase also lies far below the last measured dry mass data point. Furthermore, the qualitative behaviour of riboflavin seems to be far more comparable to the measured biomass.
+
+It may be advised to remeasure the biomass conversion factors for riboflavin and scatter. (Note: I started such an experiment, however I could not finish it due to the recent corona crisis). Until then, the riboflavin biomass-estimate will be used.
+
+\begin{figure}[p!]
+    \captionsetup[subfigure]{justification=centering}
+    \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{glc_scatterGG}
+        \caption{scatter [AU] vs. time [h]}
+        \label{fig:glc_scatterRaw}
+        \end{subfigure}
+        \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{glc_ribofGG}
+        \caption{riboflavine [AU] vs. time [h]}
+        \label{fig:glc_ribofRaw}
+    \end{subfigure}
+    
+    \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{glc_pHGG}
+        \caption{pH vs. time [h]}
+        \label{fig:glc_pHRaw}
+        \end{subfigure}
+        \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{glc_O2GG}
+        \caption{$\textrm{O}_2$ saturation [\%] vs. time [h]}
+        \label{fig:glc_O2Raw}
+    \end{subfigure}
+    
+    \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{glc_NADHGG}
+        \caption{NADH [AU] vs. time [h]}
+        \label{fig:glc_NADHRaw}
+    \end{subfigure}
+    
+    \caption{\textbf{Overview over variables measured by the BioLector each against the time (in h)} and for different concentrations of glucose added to the M9 growth medium.
+    Glucose concentrations (in C-mmol/l) are indicated in white boxes on the right and through the color strength of the blue background. The grey areas mark the approximate time periods of drops in the scatter measurements, as seen in (a). Every concentration uses n=3 technical replicates.}
+    \label{fig:glc_VarsRaw}
+\end{figure}
+
+\begin{figure}[p!]
+    \centering
+    \includesvg[width=0.5\textwidth]{glc_scatterPeaksPosGG}
+    \caption{\textbf{Time of the first and second peak, as well as the time difference between them (in h) against the samples respective glucose concentration (in C-mmol/l)} (also marked through background color). Peaks were automatically annotated and as such their boundaries may differ from optically determined ones and n = 2 or 3, depending on which peaks were recognized.}
+    \label{fig:glc_scatterPeaksPos}
+\end{figure}
+
+\begin{figure}[p!]
+    \captionsetup[subfigure]{justification=centering}
+    \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{glcBM_biomassScatGG}
+        \caption{biomass expected from scatter [C-mmol/l] vs. time [h], with measured biomass}
+        \label{fig:glcBM_biomassScat}
+    \end{subfigure}
+        \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{glcBM_biomassRibofGG}
+        \caption{biomass expected from riboflavin [C-mmol/l] vs. time [h], with measured biomass}
+        \label{fig:glcBM_biomassRibof}
+    \end{subfigure}
+
+    \caption{\textbf{Biomass (black lines, in C-mmol/l) of samples with 133.2 C-mmol glucose, as calculated from scatter or riboflavin (see eqns. \ref{eqn:CMolFromScat} \& \ref{eqn:CMolFromRibof}) against the time (in h)}. Added as dots are \underline{multiple biomass measurements of the same dried sample} after one or two days of drying, as to depict measurement variance.}
+    \label{fig:glcBM_biomassCompares}
+\end{figure}
+
+\begin{figure}[p!]
+    \captionsetup[subfigure]{justification=centering}
+    \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{glc_growthratesScatterGG}
+        \caption{scatter growth rate $\mu$ [$\textrm{h}^{-1}$]\\vs. time [h]}
+        \label{fig:glc_growthratesScatter}
+    \end{subfigure}
+        \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{glc_growthratesRibofGG}
+        \caption{riboflavin growth rate $\mu$ [$\textrm{h}^{-1}$]\\vs. time [h]}
+        \label{fig:glc_growthratesRibof}
+    \end{subfigure}
+    
+    \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{glc_O2RateGG}
+        \caption{normalized $\textrm{O}_2$ rate [mmol/(g h)]\\vs. time [h]}
+        \label{fig:glc_O2Rate}
+    \end{subfigure}
+    \caption{\textbf{Growth rates $\mu$ extracted from either scatter or riboflavin measurements (obtained from dpseg on smoothed data, in $\textrm{h}^{-1}$) and the biomass-normalized $\textrm{O}_2$ change rate (in mmol/(g h)) against the time (in h)}. Calculated for different concentrations of glucose added to the M9 growth medium. Glucose concentrations in C-mmol/l are indicated in white boxes on the right and through the strength of the blue background. The grey areas mark the approximate time periods of drops in the scatter measurements, as seen in fig. \ref{fig:glc_scatterRaw}. Every concentration uses n=3 technical replicates.}
+    \label{fig:glc_changeRates}
+\end{figure}
+
+%========================== MODELS ==========================
+
+\subsection*{Monod model}
+As a first approach a monod model is fitted (see fig \ref{fig:glcMdl_monodFit}).
+\[mu = \mu_{max} \cdot s/(s + K)\]
+\[ds = \phi \cdot (s_{in} - s) - (\mu/Y) \cdot y\]
+\[dy = (\mu - \phi) \cdot y - d \cdot y\]
+
+This also allows for evaluation of the quality of parameters, that can be gotten from the data itself (see tab. \ref{tab:glcMad_monodCoefs}):
+\begin{itemize}
+    \item $s_0 =$ the initial glucose concentration (in C-mmol/l)
+    \item $y_0 =$ the biomass value for $t=0$
+    \item $Y =$ the yield (see fig. \ref{fig:glc_yield})
+    \item $\mu_{max} =$ the maximal growth rate of biomass (excluded first hour, since growth rates varied strongly with some exceptionally high values, due to low riboflavin signal at the beginning)
+    \item $K =$ the substrate concentration where $\mu_{biomass} = 0.5 \cdot \mu_{max}$. Since this model assumes, that substrate gets turned directly into biomass, this is equivalent to $y(t)/Y$ at the time point, where $\mu_{biomass} = 0.5 \cdot \mu_{max}$.
+    \item Dilution rate $\phi$, ingoing substrate concentration $s_{in}$ and death rate $d$ were left at 0.
+\end{itemize}
+
+Since the monod model assumes a simple conversion from substrate to biomass, the underlying 2-phase metabolization and stationary phase is not be conveyed proberly. This is strongly visible through the wave motion performed in the residuals (see fig. \ref{fig:glcMdl_monodResiduals}). However, regardless of this oversimplification, the monod model fitted with parameters from the data describes the rough qualitative behaviour of the estimated biomass well. It can therefore be used as a basis to evaluate the performance of further, more complicated models.
+
+\begin{figure}[p!]
+    \centering
+    \includesvg[width=0.5\textwidth]{glc_yieldGG}
+    \caption{\textbf{Expected biomass (in C-mmol/l) against the respective samples glucose concentration (in C-mmol/l) for yield determination.} The slope of a forced zero-ordinate linear model was used as yield (slope and $R^2$ are annotated). Every concentration uses n=3 technical replicates.}
+    \label{fig:glc_yield}
+\end{figure}
+
+\begin{table}[p!]
+    \centering
+    \caption{Initial parameters used for the monod model}
+    \begin{tabular}{|c|c|c|c|c|c|c|c|}
+        \hline
+        $s_0$ & $y_0$ & $\phi$ & $s_{in}$ & $\mu_{max}$ & $K$ & $Y$ & $d$ \\ 
+        \hline
+        22.2 & 1.908 & 0 & 0 & 0.332 & 2.03 & 0.275 & 0 \\ 
+        44.4 & 1.908 & 0 & 0 & 0.425 & 11.28 & 0.275 & 0 \\ 
+        66.6 & 1.742 & 0 & 0 & 0.447 & 22.64 & 0.275 & 0 \\ 
+        88.8 & 2.074 & 0 & 0 & 0.449 & 30.99 & 0.275 & 0 \\ 
+        111.0 & 2.074 & 0 & 0 & 0.451 & 34.52 & 0.275 & 0 \\ 
+        133.2 & 1.659 & 0 & 0 & 0.464 & 39.86 & 0.275 & 0 \\ 
+        \hline
+        
+    \end{tabular}
+    \label{tab:glcMad_monodCoefs}
+\end{table}
+
+\begin{figure}[p!]
+    \captionsetup[subfigure]{justification=centering}
+    \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{glcMdl_monodFit}
+        \caption{Monod modeled biomass (purple) overlayed onto the expected biomass (black) [C-mmol/l] vs. time [h]}
+        \label{fig:glcMdl_monodFit}
+    \end{subfigure}
+        \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{glcMdl_monodRelVar1}
+        \caption{Percentage of max for monod modeled variables [\%]  vs. time [h]}
+        \label{fig:glcMdl_monodRelVar1}
+    \end{subfigure}
+    
+    \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{glcMdl_monodResiduals}
+        \caption{Residuals of monod modeled biomass [C-mmol/l] vs. time [h]}
+        \label{fig:glcMdl_monodResiduals}
+    \end{subfigure}
+        \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{glcMdl_monodMse}
+        \caption{MSE of monod modeled biomass per sample [$\textrm{(C-mmol/l)}^2$] vs. respective samples glucose concentration [C-mmol/l], n=3 per boxplot}
+        \label{fig:glcMdl_monodMse}
+    \end{subfigure}
+    \caption{\textbf{Monod modeled biomass ((a), in C-mmol/l) and other model variables ((b), rel. to max) against the time (in h)}. Additionally model residuals ((c), in C-mmol/l) against the time (in h) and the model MSE ((d), $\textrm{(C-mmol/l)}^2$) per glucose concentration (in C-mmol/l).}
+    \label{fig:glcMdl_monodSummary}
+\end{figure}
+
+\newpage
+\section*{Acetate}
+
+Going from the theory, that the behavior of biomass is linked to serialized metabolism from glucose to acetate, samples grown on acetate should show a simpler growth by just omitting the first (glucose) growth phase. Through this, only a single (acetate) growth phase would be observed, possibly even close to monod-like growth.
+
+This would suggest the scatter showing an exponential growth phase, which would end in a single drop with following stationary phase.
+\bigskip
+
+The BioLector measurements however contradict this simplification:
+\begin{itemize}
+    \item The scatter measurements (see fig. \ref{fig:ace_scatterRaw}) suggest initial exponential growth. However, for all samples this phase is divided into two sub-phases, an early time period with low growth rate followed by one with higher growth rate (see fig. \ref{fig:ace_growthratesScatter}). For both sub-phases, the growth rates of all samples are comparable and higher acetate concentrations only differ in the entry-time and length of the second sub-phase. Samples with higher acetate concentrations seem to enter the second sub-phase earlier. Because of this, the scatter curves of all samples are similar during the initial sub-phase (as is the case for glucose), but only diverge when entering the second at different time points. Afterwards, the samples show the expected peak, where higher glucose concentrations seem to lead to a slightly later peak time (see fig. \ref{fig:ace_scatterPeaksPos}). The following drop is lighter and stretched over a far longer time period (ca. -15\% in 3h). Additionally, for higher acetate concentrations there is immediate growth visible after the drop in a saturation-like manner. This late growth even raises the scatter above the respective peak value before entering a stagnant phase. 
+    \item Other than in the scatter data, riboflavin does not show a clear separation of sub growth phases before the peak. The growth rates rather start at a maximal value and then (for higher acetate concentrations) drop in multiple steps until reaching 0 at the time of the scatter peak. In contrast to the glucose samples, riboflavin measurements also show a peak together with the scatter (see fig. \ref{fig:ace_ribofRaw}). The following riboflavin drop however is stretched a lot farther, than is the case for the scatter drop and the decrease shows a constant rate of decay (see fig. \ref{fig:ace_growthratesRibof}) as opposed to the almost linear nature of the scatter drop.
+    \item $\textrm{O}_2$ consumption can only be measured during the first (growth) phase, where it is relatively steady (see figs. \ref{fig:ace_O2Raw} \& \ref{fig:ace_O2Rate}). However, as opposed to the glucose samples, the consumption gradually decreases to 0 over ca. 2h \emph{before} the scatter-drop. For the two highest acetate concentrations, there is also a short dip in $\textrm{O}_2$ usage rate visible, that occurs before said gradual decrease. This dip occurs earlier for samples with higher acetate concentrations.
+    \item While the pH of samples with lower acetate concentrations stays relatively constant, it increases slightly during the growth phase for higher concentrations until stagnating after the scatter-peak time point. The dips in $\textrm{O}_2$ usage my be represented by short phases of stagnating pH in the relevant time ranges. As was also noted for glucose, the samples without added acetate show a continuous decrease in pH, with one (outlier) sample having an especially strong drop in pH after the first hour.
+\end{itemize}
+\bigskip
+
+\textbf{Because riboflavin measurements also decrease after the scatter-drop, both scatter and riboflavin are likely not useful for estimating the biomass. To alleviate this and continue with modelling, a measurement of dry mass will be needed.}
+
+\begin{figure}[p!]
+    \captionsetup[subfigure]{justification=centering}
+    \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{ace_scatterGG}
+        \caption{scatter [AU] vs. time [h]}
+        \label{fig:ace_scatterRaw}
+        \end{subfigure}
+        \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{ace_ribofGG}
+        \caption{riboflavine [AU] vs. time [h]}
+        \label{fig:ace_ribofRaw}
+    \end{subfigure}
+    
+    \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{ace_pHGG}
+        \caption{pH vs. time [h]}
+        \label{fig:ace_pHRaw}
+        \end{subfigure}
+        \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{ace_O2GG}
+        \caption{$\textrm{O}_2$ saturation [\%] vs. time [h]}
+        \label{fig:ace_O2Raw}
+    \end{subfigure}
+    
+    \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{ace_NADHGG}
+        \caption{NADH [AU] vs. time [h]}
+        \label{fig:ace_NADHRaw}
+    \end{subfigure}
+    
+    \caption{\textbf{Overview over variables measured by the BioLector each against the time (in h)} and for different concentrations of acetate added to the M9 growth medium.
+    Acetate concentrations (in C-mmol/l) are indicated in white boxes on the right and through the color strength of the red background. The grey areas mark the approximate time periods of drops in the scatter measurements, as seen in (a). Every concentration uses n=3 technical replicates, but 133.2 C-mmol/l (n=2).}
+    \label{fig:ace_VarsRaw}
+\end{figure}
+
+\begin{figure}[p!]
+    \centering
+    \includesvg[width=0.5\textwidth]{ace_scatterPeaksPosGG}
+    \caption{\textbf{Time of the scatter peak (in h) against the samples respective acetate concentration (in C-mmol/l)} (also marked through background color). Peaks were automatically annotated and as such their boundaries may differ from optically determined ones and n = 2 or 3, depending on which peaks were recognized.}
+    \label{fig:ace_scatterPeaksPos}
+\end{figure}
+
+\begin{figure}[p!]
+    \captionsetup[subfigure]{justification=centering}
+    \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{ace_growthratesScatterGG}
+        \caption{scatter growth rate $\mu$ [$\textrm{h}^{-1}$]\\vs. time [h]}
+        \label{fig:ace_growthratesScatter}
+    \end{subfigure}
+        \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{ace_growthratesRibofGG}
+        \caption{riboflavin growth rate $\mu$ [$\textrm{h}^{-1}$]\\vs. time [h]}
+        \label{fig:ace_growthratesRibof}
+    \end{subfigure}
+    
+    \begin{subfigure}{0.5\textwidth}
+        \includesvg[width=\textwidth]{ace_O2RateGG}
+        \caption{normalized $\textrm{O}_2$ rate [mmol/(g h)]\\vs. time [h]}
+        \label{fig:ace_O2Rate}
+    \end{subfigure}
+    \caption{\textbf{Growth rates $\mu$ extracted from either scatter or riboflavin measurements (obtained from dpseg on smoothed data, in $\textrm{h}^{-1}$) and the biomass-normalized $\textrm{O}_2$ change rate (in mmol/(g h)) against the time (in h)}. Calculated for different concentrations of acetate added to the M9 growth medium. Acetate concentrations in C-mmol/l are indicated in white boxes on the right and through the strength of the red background. The grey areas mark the approximate time periods of drops in the scatter measurements, as seen in the first plot. Every concentration uses n=3 technical replicates, but 133.2 C-mmol/l (n=2).}
+    \label{fig:ace_changeRates}
+\end{figure}
+
+\end{document}
+

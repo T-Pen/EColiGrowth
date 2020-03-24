@@ -1,0 +1,17 @@
+Picking up tip well A1 in "9"
+Transferring 10 from well A1 in "6" to well B1 in "6"
+	Aspirating 10.0 uL from well A1 in "6" at 1 speed
+	Dispensing 10.0 uL into well B1 in "6"
+Pausing robot operation
+Pausing robot operation
+Pausing robot operation
+Pausing robot operation
+Pausing robot operation
+Pausing robot operation
+Pausing robot operation
+Pausing robot operation
+Pausing robot operation
+Pausing robot operation
+Pausing robot operation
+Pausing robot operation
+Pausing robot operation

@@ -1,0 +1,670 @@
+Picking up tip well A1 in "11"
+Distributing 100.0 from well B2 in "10" to wells A1...A7 in "7"
+	Transferring 100.0 from well B2 in "10" to wells A1...A7 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well A1 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well A2 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well A3 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well A4 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well A5 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well A6 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well A7 in "7"
+Distributing 100.0 from well B2 in "10" to wells B1...B7 in "7"
+	Transferring 100.0 from well B2 in "10" to wells B1...B7 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well B1 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well B2 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well B3 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well B4 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well B5 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well B6 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well B7 in "7"
+Distributing 100.0 from well B2 in "10" to wells C1...C7 in "7"
+	Transferring 100.0 from well B2 in "10" to wells C1...C7 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well C1 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well C2 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well C3 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well C4 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well C5 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well C6 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well C7 in "7"
+Dropping tip well A1 in "12"
+Picking up tip well B1 in "11"
+Distributing 100.0 from well B2 in "10" to wells D1...D7 in "7"
+	Transferring 100.0 from well B2 in "10" to wells D1...D7 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well D1 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well D2 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well D3 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well D4 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well D5 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well D6 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well D7 in "7"
+Distributing 100.0 from well B2 in "10" to wells E1...E7 in "7"
+	Transferring 100.0 from well B2 in "10" to wells E1...E7 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well E1 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well E2 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well E3 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well E4 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well E5 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well E6 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well E7 in "7"
+Distributing 100.0 from well B2 in "10" to wells F1...F7 in "7"
+	Transferring 100.0 from well B2 in "10" to wells F1...F7 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well F1 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well F2 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well F3 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well F4 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well F5 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well F6 in "7"
+		Aspirating 100.0 uL from well B2 in "10" at 1 speed
+		Dispensing 100.0 uL into well F7 in "7"
+Dropping tip well A1 in "12"
+Picking up tip well C1 in "11"
+Transferring 150.0 from well A3 in "10" to well A2 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well A2 in "7"
+Transferring 300.0 from well A3 in "10" to well A3 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well A3 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well A3 in "7"
+Transferring 450.0 from well A3 in "10" to well A4 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well A4 in "7"
+	Aspirating 125.0 uL from well A3 in "10" at 1 speed
+	Dispensing 125.0 uL into well A4 in "7"
+	Aspirating 125.0 uL from well A3 in "10" at 1 speed
+	Dispensing 125.0 uL into well A4 in "7"
+Transferring 600.0 from well A3 in "10" to well A5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well A5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well A5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well A5 in "7"
+Transferring 750.0 from well A3 in "10" to well A6 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well A6 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well A6 in "7"
+	Aspirating 175.0 uL from well A3 in "10" at 1 speed
+	Dispensing 175.0 uL into well A6 in "7"
+	Aspirating 175.0 uL from well A3 in "10" at 1 speed
+	Dispensing 175.0 uL into well A6 in "7"
+Transferring 900.0 from well A3 in "10" to well A7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well A7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well A7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well A7 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well A7 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well A7 in "7"
+Transferring 150.0 from well A3 in "10" to well B2 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well B2 in "7"
+Transferring 300.0 from well A3 in "10" to well B3 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well B3 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well B3 in "7"
+Transferring 450.0 from well A3 in "10" to well B4 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well B4 in "7"
+	Aspirating 125.0 uL from well A3 in "10" at 1 speed
+	Dispensing 125.0 uL into well B4 in "7"
+	Aspirating 125.0 uL from well A3 in "10" at 1 speed
+	Dispensing 125.0 uL into well B4 in "7"
+Transferring 600.0 from well A3 in "10" to well B5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well B5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well B5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well B5 in "7"
+Transferring 750.0 from well A3 in "10" to well B6 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well B6 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well B6 in "7"
+	Aspirating 175.0 uL from well A3 in "10" at 1 speed
+	Dispensing 175.0 uL into well B6 in "7"
+	Aspirating 175.0 uL from well A3 in "10" at 1 speed
+	Dispensing 175.0 uL into well B6 in "7"
+Transferring 900.0 from well A3 in "10" to well B7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well B7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well B7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well B7 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well B7 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well B7 in "7"
+Transferring 150.0 from well A3 in "10" to well C2 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well C2 in "7"
+Transferring 300.0 from well A3 in "10" to well C3 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well C3 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well C3 in "7"
+Transferring 450.0 from well A3 in "10" to well C4 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well C4 in "7"
+	Aspirating 125.0 uL from well A3 in "10" at 1 speed
+	Dispensing 125.0 uL into well C4 in "7"
+	Aspirating 125.0 uL from well A3 in "10" at 1 speed
+	Dispensing 125.0 uL into well C4 in "7"
+Transferring 600.0 from well A3 in "10" to well C5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well C5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well C5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well C5 in "7"
+Transferring 750.0 from well A3 in "10" to well C6 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well C6 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well C6 in "7"
+	Aspirating 175.0 uL from well A3 in "10" at 1 speed
+	Dispensing 175.0 uL into well C6 in "7"
+	Aspirating 175.0 uL from well A3 in "10" at 1 speed
+	Dispensing 175.0 uL into well C6 in "7"
+Transferring 900.0 from well A3 in "10" to well C7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well C7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well C7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well C7 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well C7 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well C7 in "7"
+Transferring 150.0 from well A3 in "10" to well D2 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well D2 in "7"
+Transferring 300.0 from well A3 in "10" to well D3 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well D3 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well D3 in "7"
+Transferring 450.0 from well A3 in "10" to well D4 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well D4 in "7"
+	Aspirating 125.0 uL from well A3 in "10" at 1 speed
+	Dispensing 125.0 uL into well D4 in "7"
+	Aspirating 125.0 uL from well A3 in "10" at 1 speed
+	Dispensing 125.0 uL into well D4 in "7"
+Transferring 600.0 from well A3 in "10" to well D5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well D5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well D5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well D5 in "7"
+Transferring 750.0 from well A3 in "10" to well D6 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well D6 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well D6 in "7"
+	Aspirating 175.0 uL from well A3 in "10" at 1 speed
+	Dispensing 175.0 uL into well D6 in "7"
+	Aspirating 175.0 uL from well A3 in "10" at 1 speed
+	Dispensing 175.0 uL into well D6 in "7"
+Transferring 900.0 from well A3 in "10" to well D7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well D7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well D7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well D7 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well D7 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well D7 in "7"
+Transferring 150.0 from well A3 in "10" to well E2 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well E2 in "7"
+Transferring 300.0 from well A3 in "10" to well E3 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well E3 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well E3 in "7"
+Transferring 450.0 from well A3 in "10" to well E4 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well E4 in "7"
+	Aspirating 125.0 uL from well A3 in "10" at 1 speed
+	Dispensing 125.0 uL into well E4 in "7"
+	Aspirating 125.0 uL from well A3 in "10" at 1 speed
+	Dispensing 125.0 uL into well E4 in "7"
+Transferring 600.0 from well A3 in "10" to well E5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well E5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well E5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well E5 in "7"
+Transferring 750.0 from well A3 in "10" to well E6 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well E6 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well E6 in "7"
+	Aspirating 175.0 uL from well A3 in "10" at 1 speed
+	Dispensing 175.0 uL into well E6 in "7"
+	Aspirating 175.0 uL from well A3 in "10" at 1 speed
+	Dispensing 175.0 uL into well E6 in "7"
+Transferring 900.0 from well A3 in "10" to well E7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well E7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well E7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well E7 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well E7 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well E7 in "7"
+Transferring 150.0 from well A3 in "10" to well F2 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well F2 in "7"
+Transferring 300.0 from well A3 in "10" to well F3 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well F3 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well F3 in "7"
+Transferring 450.0 from well A3 in "10" to well F4 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well F4 in "7"
+	Aspirating 125.0 uL from well A3 in "10" at 1 speed
+	Dispensing 125.0 uL into well F4 in "7"
+	Aspirating 125.0 uL from well A3 in "10" at 1 speed
+	Dispensing 125.0 uL into well F4 in "7"
+Transferring 600.0 from well A3 in "10" to well F5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well F5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well F5 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well F5 in "7"
+Transferring 750.0 from well A3 in "10" to well F6 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well F6 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well F6 in "7"
+	Aspirating 175.0 uL from well A3 in "10" at 1 speed
+	Dispensing 175.0 uL into well F6 in "7"
+	Aspirating 175.0 uL from well A3 in "10" at 1 speed
+	Dispensing 175.0 uL into well F6 in "7"
+Transferring 900.0 from well A3 in "10" to well F7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well F7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well F7 in "7"
+	Aspirating 200.0 uL from well A3 in "10" at 1 speed
+	Dispensing 200.0 uL into well F7 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well F7 in "7"
+	Aspirating 150.0 uL from well A3 in "10" at 1 speed
+	Dispensing 150.0 uL into well F7 in "7"
+Dropping tip well A1 in "12"
+Picking up tip well D1 in "11"
+Transferring 900.0 from well A1 in "10" to well A1 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well A1 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well A1 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well A1 in "7"
+	Aspirating 150.0 uL from well A1 in "10" at 1 speed
+	Dispensing 150.0 uL into well A1 in "7"
+	Aspirating 150.0 uL from well A1 in "10" at 1 speed
+	Dispensing 150.0 uL into well A1 in "7"
+Transferring 750.0 from well A1 in "10" to well A2 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well A2 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well A2 in "7"
+	Aspirating 175.0 uL from well A1 in "10" at 1 speed
+	Dispensing 175.0 uL into well A2 in "7"
+	Aspirating 175.0 uL from well A1 in "10" at 1 speed
+	Dispensing 175.0 uL into well A2 in "7"
+Transferring 600.0 from well A1 in "10" to well A3 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well A3 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well A3 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well A3 in "7"
+Transferring 450.0 from well A1 in "10" to well A4 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well A4 in "7"
+	Aspirating 125.0 uL from well A1 in "10" at 1 speed
+	Dispensing 125.0 uL into well A4 in "7"
+	Aspirating 125.0 uL from well A1 in "10" at 1 speed
+	Dispensing 125.0 uL into well A4 in "7"
+Transferring 300.0 from well A1 in "10" to well A5 in "7"
+	Aspirating 150.0 uL from well A1 in "10" at 1 speed
+	Dispensing 150.0 uL into well A5 in "7"
+	Aspirating 150.0 uL from well A1 in "10" at 1 speed
+	Dispensing 150.0 uL into well A5 in "7"
+Transferring 150.0 from well A1 in "10" to well A6 in "7"
+	Aspirating 150.0 uL from well A1 in "10" at 1 speed
+	Dispensing 150.0 uL into well A6 in "7"
+Transferring 900.0 from well A1 in "10" to well B1 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well B1 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well B1 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well B1 in "7"
+	Aspirating 150.0 uL from well A1 in "10" at 1 speed
+	Dispensing 150.0 uL into well B1 in "7"
+	Aspirating 150.0 uL from well A1 in "10" at 1 speed
+	Dispensing 150.0 uL into well B1 in "7"
+Transferring 750.0 from well A1 in "10" to well B2 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well B2 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well B2 in "7"
+	Aspirating 175.0 uL from well A1 in "10" at 1 speed
+	Dispensing 175.0 uL into well B2 in "7"
+	Aspirating 175.0 uL from well A1 in "10" at 1 speed
+	Dispensing 175.0 uL into well B2 in "7"
+Transferring 600.0 from well A1 in "10" to well B3 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well B3 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well B3 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well B3 in "7"
+Transferring 450.0 from well A1 in "10" to well B4 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well B4 in "7"
+	Aspirating 125.0 uL from well A1 in "10" at 1 speed
+	Dispensing 125.0 uL into well B4 in "7"
+	Aspirating 125.0 uL from well A1 in "10" at 1 speed
+	Dispensing 125.0 uL into well B4 in "7"
+Transferring 300.0 from well A1 in "10" to well B5 in "7"
+	Aspirating 150.0 uL from well A1 in "10" at 1 speed
+	Dispensing 150.0 uL into well B5 in "7"
+	Aspirating 150.0 uL from well A1 in "10" at 1 speed
+	Dispensing 150.0 uL into well B5 in "7"
+Transferring 150.0 from well A1 in "10" to well B6 in "7"
+	Aspirating 150.0 uL from well A1 in "10" at 1 speed
+	Dispensing 150.0 uL into well B6 in "7"
+Transferring 900.0 from well A1 in "10" to well C1 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well C1 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well C1 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well C1 in "7"
+	Aspirating 150.0 uL from well A1 in "10" at 1 speed
+	Dispensing 150.0 uL into well C1 in "7"
+	Aspirating 150.0 uL from well A1 in "10" at 1 speed
+	Dispensing 150.0 uL into well C1 in "7"
+Transferring 750.0 from well A1 in "10" to well C2 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well C2 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well C2 in "7"
+	Aspirating 175.0 uL from well A1 in "10" at 1 speed
+	Dispensing 175.0 uL into well C2 in "7"
+	Aspirating 175.0 uL from well A1 in "10" at 1 speed
+	Dispensing 175.0 uL into well C2 in "7"
+Transferring 600.0 from well A1 in "10" to well C3 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well C3 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well C3 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well C3 in "7"
+Transferring 450.0 from well A1 in "10" to well C4 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well C4 in "7"
+	Aspirating 125.0 uL from well A1 in "10" at 1 speed
+	Dispensing 125.0 uL into well C4 in "7"
+	Aspirating 125.0 uL from well A1 in "10" at 1 speed
+	Dispensing 125.0 uL into well C4 in "7"
+Transferring 300.0 from well A1 in "10" to well C5 in "7"
+	Aspirating 150.0 uL from well A1 in "10" at 1 speed
+	Dispensing 150.0 uL into well C5 in "7"
+	Aspirating 150.0 uL from well A1 in "10" at 1 speed
+	Dispensing 150.0 uL into well C5 in "7"
+Transferring 150.0 from well A1 in "10" to well C6 in "7"
+	Aspirating 150.0 uL from well A1 in "10" at 1 speed
+	Dispensing 150.0 uL into well C6 in "7"
+Dropping tip well A1 in "12"
+Picking up tip well E1 in "11"
+Transferring 900.0 from well A2 in "10" to well D1 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well D1 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well D1 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well D1 in "7"
+	Aspirating 150.0 uL from well A2 in "10" at 1 speed
+	Dispensing 150.0 uL into well D1 in "7"
+	Aspirating 150.0 uL from well A2 in "10" at 1 speed
+	Dispensing 150.0 uL into well D1 in "7"
+Transferring 750.0 from well A2 in "10" to well D2 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well D2 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well D2 in "7"
+	Aspirating 175.0 uL from well A2 in "10" at 1 speed
+	Dispensing 175.0 uL into well D2 in "7"
+	Aspirating 175.0 uL from well A2 in "10" at 1 speed
+	Dispensing 175.0 uL into well D2 in "7"
+Transferring 600.0 from well A2 in "10" to well D3 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well D3 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well D3 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well D3 in "7"
+Transferring 450.0 from well A2 in "10" to well D4 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well D4 in "7"
+	Aspirating 125.0 uL from well A2 in "10" at 1 speed
+	Dispensing 125.0 uL into well D4 in "7"
+	Aspirating 125.0 uL from well A2 in "10" at 1 speed
+	Dispensing 125.0 uL into well D4 in "7"
+Transferring 300.0 from well A2 in "10" to well D5 in "7"
+	Aspirating 150.0 uL from well A2 in "10" at 1 speed
+	Dispensing 150.0 uL into well D5 in "7"
+	Aspirating 150.0 uL from well A2 in "10" at 1 speed
+	Dispensing 150.0 uL into well D5 in "7"
+Transferring 150.0 from well A2 in "10" to well D6 in "7"
+	Aspirating 150.0 uL from well A2 in "10" at 1 speed
+	Dispensing 150.0 uL into well D6 in "7"
+Transferring 900.0 from well A2 in "10" to well E1 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well E1 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well E1 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well E1 in "7"
+	Aspirating 150.0 uL from well A2 in "10" at 1 speed
+	Dispensing 150.0 uL into well E1 in "7"
+	Aspirating 150.0 uL from well A2 in "10" at 1 speed
+	Dispensing 150.0 uL into well E1 in "7"
+Transferring 750.0 from well A2 in "10" to well E2 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well E2 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well E2 in "7"
+	Aspirating 175.0 uL from well A2 in "10" at 1 speed
+	Dispensing 175.0 uL into well E2 in "7"
+	Aspirating 175.0 uL from well A2 in "10" at 1 speed
+	Dispensing 175.0 uL into well E2 in "7"
+Transferring 600.0 from well A2 in "10" to well E3 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well E3 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well E3 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well E3 in "7"
+Transferring 450.0 from well A2 in "10" to well E4 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well E4 in "7"
+	Aspirating 125.0 uL from well A2 in "10" at 1 speed
+	Dispensing 125.0 uL into well E4 in "7"
+	Aspirating 125.0 uL from well A2 in "10" at 1 speed
+	Dispensing 125.0 uL into well E4 in "7"
+Transferring 300.0 from well A2 in "10" to well E5 in "7"
+	Aspirating 150.0 uL from well A2 in "10" at 1 speed
+	Dispensing 150.0 uL into well E5 in "7"
+	Aspirating 150.0 uL from well A2 in "10" at 1 speed
+	Dispensing 150.0 uL into well E5 in "7"
+Transferring 150.0 from well A2 in "10" to well E6 in "7"
+	Aspirating 150.0 uL from well A2 in "10" at 1 speed
+	Dispensing 150.0 uL into well E6 in "7"
+Transferring 900.0 from well A2 in "10" to well F1 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well F1 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well F1 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well F1 in "7"
+	Aspirating 150.0 uL from well A2 in "10" at 1 speed
+	Dispensing 150.0 uL into well F1 in "7"
+	Aspirating 150.0 uL from well A2 in "10" at 1 speed
+	Dispensing 150.0 uL into well F1 in "7"
+Transferring 750.0 from well A2 in "10" to well F2 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well F2 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well F2 in "7"
+	Aspirating 175.0 uL from well A2 in "10" at 1 speed
+	Dispensing 175.0 uL into well F2 in "7"
+	Aspirating 175.0 uL from well A2 in "10" at 1 speed
+	Dispensing 175.0 uL into well F2 in "7"
+Transferring 600.0 from well A2 in "10" to well F3 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well F3 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well F3 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well F3 in "7"
+Transferring 450.0 from well A2 in "10" to well F4 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well F4 in "7"
+	Aspirating 125.0 uL from well A2 in "10" at 1 speed
+	Dispensing 125.0 uL into well F4 in "7"
+	Aspirating 125.0 uL from well A2 in "10" at 1 speed
+	Dispensing 125.0 uL into well F4 in "7"
+Transferring 300.0 from well A2 in "10" to well F5 in "7"
+	Aspirating 150.0 uL from well A2 in "10" at 1 speed
+	Dispensing 150.0 uL into well F5 in "7"
+	Aspirating 150.0 uL from well A2 in "10" at 1 speed
+	Dispensing 150.0 uL into well F5 in "7"
+Transferring 150.0 from well A2 in "10" to well F6 in "7"
+	Aspirating 150.0 uL from well A2 in "10" at 1 speed
+	Dispensing 150.0 uL into well F6 in "7"
+Dropping tip well A1 in "12"
+Distributing 550.0 from well A3 in "10" to wells A8...F8 in "7"
+	Transferring 550.0 from well A3 in "10" to wells A8...F8 in "7"
+		Picking up tip well F1 in "11"
+		Aspirating 200.0 uL from well A3 in "10" at 1 speed
+		Dispensing 200.0 uL into wells A8...F8 in "7"
+		Aspirating 175.0 uL from well A3 in "10" at 1 speed
+		Dispensing 175.0 uL into wells A8...F8 in "7"
+		Aspirating 175.0 uL from well A3 in "10" at 1 speed
+		Dispensing 175.0 uL into wells A8...F8 in "7"
+		Dropping tip well A1 in "12"
+Picking up tip well G1 in "11"
+Transferring 450.0 from well A1 in "10" to well A8 in "7"
+	Aspirating 200.0 uL from well A1 in "10" at 1 speed
+	Dispensing 200.0 uL into well A8 in "7"
+	Aspirating 125.0 uL from well A1 in "10" at 1 speed
+	Dispensing 125.0 uL into well A8 in "7"
+	Aspirating 125.0 uL from well A1 in "10" at 1 speed
+	Dispensing 125.0 uL into well A8 in "7"
+Transferring 360.0 from well A1 in "10" to well B8 in "7"
+	Aspirating 180.0 uL from well A1 in "10" at 1 speed
+	Dispensing 180.0 uL into well B8 in "7"
+	Aspirating 180.0 uL from well A1 in "10" at 1 speed
+	Dispensing 180.0 uL into well B8 in "7"
+Transferring 270.0 from well A1 in "10" to well C8 in "7"
+	Aspirating 135.0 uL from well A1 in "10" at 1 speed
+	Dispensing 135.0 uL into well C8 in "7"
+	Aspirating 135.0 uL from well A1 in "10" at 1 speed
+	Dispensing 135.0 uL into well C8 in "7"
+Transferring 180.0 from well A1 in "10" to well D8 in "7"
+	Aspirating 180.0 uL from well A1 in "10" at 1 speed
+	Dispensing 180.0 uL into well D8 in "7"
+Transferring 90.0 from well A1 in "10" to well E8 in "7"
+	Aspirating 90.0 uL from well A1 in "10" at 1 speed
+	Dispensing 90.0 uL into well E8 in "7"
+Dropping tip well A1 in "12"
+Picking up tip well H1 in "11"
+Transferring 90.0 from well A2 in "10" to well B8 in "7"
+	Aspirating 90.0 uL from well A2 in "10" at 1 speed
+	Dispensing 90.0 uL into well B8 in "7"
+Transferring 180.0 from well A2 in "10" to well C8 in "7"
+	Aspirating 180.0 uL from well A2 in "10" at 1 speed
+	Dispensing 180.0 uL into well C8 in "7"
+Transferring 270.0 from well A2 in "10" to well D8 in "7"
+	Aspirating 135.0 uL from well A2 in "10" at 1 speed
+	Dispensing 135.0 uL into well D8 in "7"
+	Aspirating 135.0 uL from well A2 in "10" at 1 speed
+	Dispensing 135.0 uL into well D8 in "7"
+Transferring 360.0 from well A2 in "10" to well E8 in "7"
+	Aspirating 180.0 uL from well A2 in "10" at 1 speed
+	Dispensing 180.0 uL into well E8 in "7"
+	Aspirating 180.0 uL from well A2 in "10" at 1 speed
+	Dispensing 180.0 uL into well E8 in "7"
+Transferring 450.0 from well A2 in "10" to well F8 in "7"
+	Aspirating 200.0 uL from well A2 in "10" at 1 speed
+	Dispensing 200.0 uL into well F8 in "7"
+	Aspirating 125.0 uL from well A2 in "10" at 1 speed
+	Dispensing 125.0 uL into well F8 in "7"
+	Aspirating 125.0 uL from well A2 in "10" at 1 speed
+	Dispensing 125.0 uL into well F8 in "7"
+Dropping tip well A1 in "12"
